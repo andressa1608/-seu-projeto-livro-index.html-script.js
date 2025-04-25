@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Detalhes do Livro</title>
+</head>
+<body>
+    <h1>Livro</h1>
+
+    <div>
+        <p><strong>Nome:</strong></p>
+        <p id="nome"></p>
+    </div>
+    <div>
+        <p><strong>Ano:</strong></p>
+        <p id="ano"></p>
+    </div>
+
+    <!-- Inclui o script JavaScript -->
+    <script src="script.js"></script>
+</body>
+</html>
